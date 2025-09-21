@@ -1,12 +1,18 @@
 ##################################################################################
-# MLOPs Assignment 1 - Practicle MLflow
+# MLOPs Assignment 1 - Practical MLflow and model training
+#
+#
 # 1. Install and configure MLflow tracking server
 # 2. Create an MLflow experiment and train a simple model using the Iris dataset with Logistic Regression
 # 3. Log model parameters, metrics, and the trained model to the MLflow tracking server
 #
+#
 # This script demonstrates a simple MLflow workflow for training, logging, and
 # registering a machine learning model using the Iris dataset and a Logistic    
 # Regression model.
+#
+#
+# Github Repository link: https://github.com/gaikwad411/ml_session_demo/blob/main/mlops_assignment_1/main.py
 ##################################################################################
 
 import mlflow
