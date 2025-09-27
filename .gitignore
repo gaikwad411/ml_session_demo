@@ -211,3 +211,6 @@ __marimo__/
 # MLflow
 mlruns/
 mlartifacts/
+
+# ignore data
+data/
